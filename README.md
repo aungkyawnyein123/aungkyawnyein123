@@ -6,9 +6,9 @@
     </div>
     <div>
         <h3 align="left">👩‍💻 About Me</h3>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Akn;I+work+as+a+full-stack+Developer;I've+experience+with+Web+development.;" alt="Typing SVG" /></a> <br>
-        <p align="left">- 🔭 I’m working as Intern<br>- 📚 I'm currently learning Laravel and Java<br>- ⚡ In my free
-            time I do self-study or play games</p>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Akn;I+work+as+a+full-stack+Developer;Nowadays+,+I'm+actively+involved+in+web+development projects.;" alt="Typing SVG" /></a> <br>
+        <p align="left">- 🔭 I’m working as an intern.<br>- 📚 I'm currently learning Laravel and Java.<br>- ⚡ In my free
+            time I do self-study or play games.</p>
     </div>
     <div>
         <h3 align="left"> 🛠 Language and tools that I used in my projects</h3>

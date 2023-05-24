@@ -39,8 +39,12 @@
             alt="laravel logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
     </div><br>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=aungkyawnyein123&show_icons=true&theme=nightowl"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aungkyawnyein123&show_icons=true&theme=nightowl&layout=donut"/>
+    </div>
     <div align="center">
-        <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=aungkyawnyein123&theme=neon-dark&border_radius=0)](https://git.io/streak-stats)" alt=""/>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aungkyawnyein123&theme=nightowl"/></a>
     </div>
        
 </body>

@@ -40,6 +40,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
     </div><br>
     <div align="center">
+        [![GitHub Streak](https://streak-stats.demolab.com?user=aungkyawnyein123&theme=neon-dark&border_radius=0)](https://git.io/streak-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=aungkyawnyein123&theme=neon-dark&border_radius=0)](https://git.io/streak-stats)
        <img src="https://streak-stats.demolab.com?user=aungkyawnyein123&theme=neon-dark&border_radius=0" alt=""/>
     </div>
        

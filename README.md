@@ -1,4 +1,4 @@
-<h2 align="center">$${\color{white}Welcome \space to \space my \space \color{red} Profile}$$</h2>
+<h2 align="center">$${\color{white}Welcome \space to \space my \space \color{red} Profil}$$</h2>
 <div>
         <img width="360" height="auto" align="right" src="https://github.com/aungkyawnyein123/aungkyawnyein123/blob/main/assets/ve.gif"/>
 </div>

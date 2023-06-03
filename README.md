@@ -6,7 +6,7 @@
      <h3 align="left">👩‍💻 About Me</h3>
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Akn;I+work+as+a+full-stack+Developer;" alt="Typing SVG" /></a> <br>
         <ul>
-            <li>🔭 I’m working as an intern and currently involved in web development projects</li>
+            <li>🔭 I’m working as an intern and currently involved in web development projects.</li>
             <li>📚 I'm currently learning Laravel and Java</li>
             <li>⚡ In my free time I do self-study or play games</li>
         </ul>
